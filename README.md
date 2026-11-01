@@ -1,65 +1,152 @@
-# Hi, I'm Raza Khan 👋
+# Raza Khan
 
-### Frontend Developer in Progress 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=160&section=header&text=Hi%20Welcome%20to%20my%20profile&fontSize=42&fontColor=ffffff&fontAlignY=38" width="100%" alt="Raza Khan header" />
+</p>
 
-Learning, building, and improving one project at a time.
-
-- 💻 Learning HTML, CSS, JavaScript, and JSON
-- ⚡ Exploring APIs, `fetch()`, and `async/await`
-- 🛠️ Building practical web projects
-- 🎯 Focused on improving my coding skills every day
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsrazakhan)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<p align="center">
+  <a href="https://github.com/itsrazakhan">GitHub Profile</a> •
+  <a href="https://github.com/itsrazakhan?tab=repositories">Repositories</a>
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## About Me
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+- Aspiring Frontend Developer
+- Learning HTML, CSS, JavaScript, and JSON
+- Building practical projects to improve my coding skills
+- Practicing DOM manipulation, events, and API integration
+- Focused on writing clean and maintainable code
 
 ---
 
-## 🚀 Featured Projects
+## Technologies & Tools
 
-| Project | Description | Links |
-|---|---|---|
-| **GitHub Profile Finder** | Find GitHub users using the GitHub API. | [Live Demo](https://itsrazakhan.github.io/github-profile-finder/) · [Source](https://github.com/itsrazakhan/github-profile-finder) |
-| **Digital Clock** | A live digital clock built with JavaScript. | [Live Demo](https://itsrazakhan.github.io/digital-clock/) · [Source](https://github.com/itsrazakhan/digital-clock) |
-| **Color Changer** | An interactive color-changing project. | [Live Demo](https://itsrazakhan.github.io/color-changer/) · [Source](https://github.com/itsrazakhan/color-changer) |
-| **Todo App** | A simple task-management web app. | [Live Demo](https://itsrazakhan.github.io/todo-app/) · [Source](https://github.com/itsrazakhan/todo-app) |
+<table width="100%">
+  <tr>
+    <th width="33%">Frontend</th>
+    <th width="33%">Currently Learning</th>
+    <th width="34%">Tools</th>
+  </tr>
+  <tr>
+    <td align="center">HTML5</td>
+    <td align="center">JavaScript</td>
+    <td align="center">Git</td>
+  </tr>
+  <tr>
+    <td align="center">CSS3</td>
+    <td align="center">JSON</td>
+    <td align="center">GitHub</td>
+  </tr>
+  <tr>
+    <td align="center">Responsive Design</td>
+    <td align="center">Fetch API</td>
+    <td align="center">VS Code</td>
+  </tr>
+  <tr>
+    <td align="center">DOM Manipulation</td>
+    <td align="center">Async/Await</td>
+    <td align="center">Microsoft Edge</td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## My Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsrazakhan&show_icons=true&hide_border=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrazakhan&layout=compact&hide_border=true&theme=tokyonight)
+<table width="100%">
+  <tr>
+    <th width="22%">Project</th>
+    <th width="38%">Description</th>
+    <th width="20%">Source Code</th>
+    <th width="20%">Live Demo</th>
+  </tr>
+  <tr>
+    <td><b>GitHub Profile Finder</b></td>
+    <td>Find GitHub users and display their profile information.</td>
+    <td align="center"><a href="https://github.com/itsrazakhan/github-profile-finder">View Source</a></td>
+    <td align="center"><a href="https://itsrazakhan.github.io/github-profile-finder/">View Live</a></td>
+  </tr>
+  <tr>
+    <td><b>Random Quote Generator</b></td>
+    <td>Generate and display random inspirational quotes.</td>
+    <td align="center"><a href="https://github.com/itsrazakhan/random-quote-generator">View Source</a></td>
+    <td align="center"><a href="https://itsrazakhan.github.io/random-quote-generator/">View Live</a></td>
+  </tr>
+  <tr>
+    <td><b>Todo App</b></td>
+    <td>Add, manage, and organize daily tasks.</td>
+    <td align="center"><a href="https://github.com/itsrazakhan/todo-app">View Source</a></td>
+    <td align="center"><a href="https://itsrazakhan.github.io/todo-app/">View Live</a></td>
+  </tr>
+  <tr>
+    <td><b>Character Counter</b></td>
+    <td>Count characters and display progress against a character limit.</td>
+    <td align="center"><a href="https://github.com/itsrazakhan/character-counter">View Source</a></td>
+    <td align="center"><a href="https://itsrazakhan.github.io/character-counter">View Live</a></td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 Current Goals
+## Currently Learning
 
-- [ ] Improve JavaScript fundamentals
-- [ ] Build more projects using real APIs
-- [ ] Write cleaner, more maintainable code
-- [ ] Learn modern frontend development
+<table width="100%">
+  <tr>
+    <th width="50%">Topic</th>
+    <th width="50%">Focus</th>
+  </tr>
+  <tr>
+    <td>JavaScript Fundamentals</td>
+    <td>Variables, functions, arrays, and objects</td>
+  </tr>
+  <tr>
+    <td>DOM Manipulation</td>
+    <td>Selecting and modifying HTML elements</td>
+  </tr>
+  <tr>
+    <td>API Integration</td>
+    <td>Using fetch() to retrieve data</td>
+  </tr>
+  <tr>
+    <td>Async JavaScript</td>
+    <td>Promises and async/await</td>
+  </tr>
+  <tr>
+    <td>Responsive Design</td>
+    <td>Building websites for different screen sizes</td>
+  </tr>
+</table>
 
 ---
 
-### 🤝 Let's Connect
+## Goals
 
-If you're interested in my projects, feel free to explore my repositories or connect with me on GitHub.
+- Build more practical JavaScript projects.
+- Improve frontend development skills.
+- Learn advanced JavaScript concepts.
+- Create responsive and user-friendly websites.
+- Become a professional frontend developer.
 
-⭐ Thanks for visiting my profile!
+---
 
-[**Visit my GitHub profile →**](https://github.com/itsrazakhan)
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsrazakhan&show_icons=true&theme=tokyonight" width="100%" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrazakhan&layout=compact&theme=tokyonight" width="100%" alt="Most used languages" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/itsrazakhan">Visit my GitHub profile</a>
+</p>
+
+<p align="center">
+  Thanks for visiting!
+</p>
