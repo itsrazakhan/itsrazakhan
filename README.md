@@ -86,6 +86,12 @@
     <td align="center"><a href="https://github.com/itsrazakhan/character-counter">View Source</a></td>
     <td align="center"><a href="https://itsrazakhan.github.io/character-counter">View Live</a></td>
   </tr>
+  <tr>
+    <td><b>Good First Issue Finder</b></td>
+    <td>Find beginner friendly issues in any language to make your first contribution.</td>
+    <td align="center"><a href="https://github.com/itsrazakhan/good-first-issue-finder">View Source</a></td>
+    <td align="center"><a href="https://itsrazakhan.github.io/good-first-issue-finder">View Live</a></td>
+  </tr>
 </table>
 
 ---
